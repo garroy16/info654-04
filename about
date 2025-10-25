@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home — Miguel Arroyo</title>
+  <link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <div class="panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+       <div style="display:flex;gap:12px;align-items:center">
+<a href="index.html" class="logo">
+  <img 
+    src="images/marigoldone.png" 
+    srcset="images/marigoldone.png 2x, images/marigoldone.png 3x" 
+    alt="Miguel Arroyo Logo">
+</a>
+<div>
+            <div class="title">Home:</div>
+            <div class="tag" style="color:var(--muted);font-size:12px">an Experiment, a Dream</div>
+          </div>
+
+
+      <nav class="mobile-links" aria-label="Mobile primary">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+</div>
+
+<body>
+ <div class="container">
+  <h1>About</h1>
+  <h2>Home: an Experiment, a Dream</h2>
+    <p>
+      <strong>Home: an Experiment, a Dream</strong> is a collection of prose ranging in length, style, and
+      genre. Specifically, it charts the experiences of the author (or character of the author) dealing
+      with themes of queerness, Latinidad, embodiment, loss, and memory. The images and textual
+      pieces that comprise the collection are unified by the question of the “home”. There are moments
+      when the narrator: attempts to conjure their childhood self; imagines the home of sus abuelitos;
+      begins with the question of what it means to feel at home living in a queer and brown body.
+    </p>
+
+    <p>
+      Through experiments with typography, translations, and visual materials, the work itself attempts
+      to reconstruct the spaces and sense of “home” by serving as a kind of container — a collage
+      of images, recipes, folklore, and theory. In this sense it takes its inspiration from Ursula K. Le Guin’s
+      <a href="https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf" target="_blank" rel="noopener noreferrer"><em>Carrier Bag Theory of Fiction</em></a> as well as critical work by writers like Renee Gladman,
+      Audre Lorde, Gabriel García Márquez, Toni Morrison, Giada Scodellaro, and Camila Sosa Villada.
+    </p>
+
+    <p> The author reconstructs home by building a new reality of language, memory, and embodiment to serve the here and now through experimental prose writing. The container of the
+project is “home” as the author alchemizes life as material to work through the messiness of the
+everyday in order to make sense of one's home. <em>Home: an Experiment, a Dream</em> demonstrates
+the intimate relationship between home, language, and the body.
+    </p>
+
+    <p>
+      Appropriately, <em>Home: an Experiment, a Dream</em> both names and maps a way of thinking and
+      writing queer existence — our truths — while illuminating new modes of queer possibilities to exist
+      otherwise in the here and now.
+    </p>
+    <img src="images/lemonfour.png" alt="Four lemons on a vine>
+<footer id="footer">
+    <p> &copy;Miguel Arroyo / 2025</p>
+  </footer>
+</body>
+</html>
+
+
