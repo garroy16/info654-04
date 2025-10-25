@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home — Miguel Arroyo</title>
+  <link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <div class="panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+       <div style="display:flex;gap:12px;align-items:center">
+<a href="index.html" class="logo">
+  <img 
+    src="images/marigoldone.png" 
+    srcset="images/marigoldone.png 2x, images/marigoldone.png 3x" 
+    alt="Miguel Arroyo Logo">
+</a>
+<div>
+            <div class="title">Home:</div>
+            <div class="tag" style="color:var(--muted);font-size:12px">an Experiment, a Dream</div>
+          </div>
+
+
+      <nav class="mobile-links" aria-label="Mobile primary">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+</div>
+ <div class="container">
+  <h1>A Wish <em>(One Wish)</em></h1>
+<p>
+I wish: I wish for a world that does not diminish the intrinsic value within this vessel of a body I call Home; for a doorway to manifest so I can pass through to another world, a then and there to be here and now; to tear the fabric of our reality with a shredder so it cannot be remade, and begin sewing a new one out of resistance and hope in the face of hate; to find control in what I can and release the rest; for a world free of the stagnant borders persons place on my only Home, the body; where there is no fear of Other, no fear of dreaming (for more), no fear of unknown because WE have created a room of safety and where desires frolic; for a place where dreams become actualized, tangible and live outside of these four walls; for a togetherness; to create a lasting impact in countless ways; for a page that is not limited by form and genre and text, to be the one capable, responsible, of writing themselves in; I do not wish for a fucking utopia, a “no place”, instead for a world that abolished the need for competition leaving a home for everybody, every body; for a collaborative effort to support each other, to build community, to fucking live above all else; for desires so so so great it splits the door off its hinges bleeding a cascade into the world; for my hands to grow large enough, to mold the map into a shape that leads out of this place; to alter reality in order to feel something different other than the everyday of a Wednesday morning; I am not wishing for anything new (only channeling the echoes of my ancestors reverberating throughout this body, my mouth, catching their sentences between my teeth); to find the America my grandparents pictured and dreamed of when immigrating; for an end of this exhaustive practice of caring for every corner of my Home to be clean while the electoral majority are comfortable living in their own shit; the end of the extensive feeding of bodies and death to please the empire’s appetite; for us to remember that the table can always be made bigger; to remember all the people forgotten in time; fantasizing for the strength to pull this dreamt world down and merge with the present; for a star shooting across the horizon long enough to place my wish upon—to strike a match, light the fuse and set my wish ablaze.<sup><a href="#footnote1" id="ref1">1</a></sup></p>
+      <img src="images/marigoldcandle.png" alt="a lit candle surrounded by marigolds" />
+
+<div class="footnotes">
+  <p id="footnote1">
+    <sup>1</sup> Repeat this three times for the wish to come true or close your eyes, real tight, while chanting to yourself and maybe then one wish will slither its way into reality.
+    <a href="#ref1" class="back-link">↩︎</a>
+  </p>
+<footer id="footer">
+    <p> &copy;Miguel Arroyo / 2025</p>
+  </footer>
+</body>
+</html>
