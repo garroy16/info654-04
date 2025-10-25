@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home — Miguel Arroyo</title>
+  <link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <div class="panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+       <div style="display:flex;gap:12px;align-items:center">
+<a href="index.html" class="logo">
+  <img 
+    src="images/marigoldone.png" 
+    srcset="images/marigoldone.png 2x, images/marigoldone.png 3x" 
+    alt="Miguel Arroyo Logo">
+</a>
+<div>
+            <div class="title">Home:</div>
+            <div class="tag" style="color:var(--muted);font-size:12px">an Experiment, a Dream</div>
+          </div>
+
+
+      <nav class="mobile-links" aria-label="Mobile primary">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+</div>
+
+  <div class="container">
+    <h1>Cure for Homesickness</h1>
+
+    <div class="body-text">
+      <p>
+        I began the day missing home. At twenty-four I moved almost three thousand miles exactly away
+        from my childhood home in Los Angeles to New York City. From one beast of a metropolitan
+        city to another. Like a spore, a seedling carried by the wind and landing in between the cracks of
+        the sidewalk I began laying roots. I walked a new street every day for three hundred and sixty-
+        five days and gave each street a meaning (I tried to at least). The first street was in the direction
+        of a coffee shop that roasts their beans with cinnamon, another was the location of the subway
+        entrance that cut through the middle of Manhattan, the third street had a grocery store that sold
+        lemons that almost tasted like the ones from home but were slightly bitter, on another street sat a
+        bookstore where the owner let me browse vagrantly through their collection, the fifth street had a
+        bagel shop with the fluffiest bagels I’ve ever tasted discovering my new love for cream cheese
+        and lox, on a different street there was a vintage store I’d spend time sifting through the racks of
+        over-priced second-hand garments I’d never purchase. By the end of the three hundred and sixty-
+        five days I had created a new map of home without even realizing
+        —restructuring the city’s streets and subways in a shape that fit my new world. I felt my mind
+        and body relax, finally finding comfort between the cracks of the sidewalk, yet as I navigated my
+        new home there was an unannounced visitor making space within my body; they brought a
+        heaviness, a sharp pain, a sadness, and a longing for what was familiar. At nights I lay awake
+        unable to put words to my unwelcomed melancholy and it would tuck me in with a blanket of
+        grief. I attempted to bury myself in books and writing, a cure that always worked anywhere back
+        home in the Los Angeles area, but now failed. I was forgetting: forgetting what brought me joy,
+        forgetting what it was like to drive fifteen minutes to a friend’s house, forgetting the smell of
+        Mom’s cooking in the kitchen overwhelming our home, forgetting the feel of the warm
+        California sun and refreshing ocean breeze, forgetting the sound of my Abuelita’s and Abuelito's laugh,
+        forgetting the taste of pozole on Sunday mornings. Before I moved across the country, I made
+        sure to pack everything I needed. I included some cherished tokens that remind me of home, one
+        of those was a small mason jar of lemon seeds from the Lemon Tree in our backyard. At the
+        beginning I didn't know how to cure this homesickness. I swallowed a lemon seed. I swallowed another lemon seed. Sometimes they made me sad because I thought when I ate them, I would be
+        destroying pieces of home. I craved for home to be part of me; it wasn’t until I swallowed all the
+        lemon seeds that made me realize Home was always intimately interwoven with my body.
+      </p>
+<img src="images/lemonthree.png" alt="three lemons on a vine">
+<footer id="footer">
+    <p> &copy;Miguel Arroyo / 2025</p>
+  </footer>
+    </div>
+  </div>
+
+</body>
+</html>
