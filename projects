@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects</title>
+  <link href="stylesheet.css" rel="stylesheet">
+  <style>
+    
+    .projects-table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #fff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .projects-table th, .projects-table td {
+      padding: 16px;
+      text-align: center;
+      border-bottom: 1px solid #eee;
+    }
+
+    .projects-table th {
+      background-color: #f0f0f0;
+      font-weight: bold;
+      font-size: 1.1em;
+      letter-spacing: 1px;
+    }
+
+    .projects-table tr:hover {
+      background-color: #f9f9f9;
+    }
+
+    a {
+      text-decoration: none;
+      color: #0056b3;
+      font-weight: 500;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: #003366;
+    } 
+}
+  </style>
+</head>
+
+<body>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <div class="panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+       <div style="display:flex;gap:12px;align-items:center">
+<a href="index.html" class="logo">
+  <img 
+    src="images/marigoldone.png" 
+    srcset="images/marigoldone.png 2x, images/marigoldone.png 3x" 
+    alt="Miguel Arroyo Logo">
+</a>
+<div>
+            <div class="title">Home:</div>
+            <div class="tag" style="color:var(--muted);font-size:12px">an Experiment, a Dream</div>
+          </div>
+
+
+      <nav class="mobile-links" aria-label="Mobile primary">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+</div>
+
+  <div class="container">
+    <h1>Projects</h1>
+
+    <div class="projects">
+      <table class="projects-table">
+        <tr>
+          <th>Project Title</th>
+        </tr>
+        <tr>
+          <td><a href="inventoryofhome.html">Inventory of Home</a></td>
+        </tr>
+        <tr>
+          <td><a href="cureforhomesickness.html">Cure for Homesickness</a></td>
+        </tr>
+        <tr>
+          <td><a href="awish.html">A Wish (One Wish)</a></td>
+        </tr>
+        <tr>
+          <td><a href="thelivingroomwalls.html">The Living Room</a></td>
+        </tr>
+      </table>
+    </div>
+<img src="images/pairofhummingbirds.png" alt="A pair of hummingbirds dancing">
+<footer id="footer">
+    <p> &copy;Miguel Arroyo / 2025</p>
+  </footer>
+  </div>
+</body>
+</html>
