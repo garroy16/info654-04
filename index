@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home — Miguel Arroyo</title>
+  <link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <div class="panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+       <div style="display:flex;gap:12px;align-items:center">
+<a href="index.html" class="logo">
+  <img 
+    src="images/marigoldone.png" 
+    srcset="images/marigoldone.png 2x, images/marigoldone.png 3x" 
+    alt="Miguel Arroyo Logo">
+</a>
+<div>
+            <div class="title">Home:</div>
+            <div class="tag" style="color:var(--muted);font-size:12px">an Experiment, a Dream</div>
+          </div>
+
+
+      <nav class="mobile-links" aria-label="Mobile primary">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+</div>
+
+  <div class="container">
+    <h1>home:</h1>
+    <h2> an experiment; a dream</h2>
+
+    <div class="image-container">
+      <img src="images/housemodel.png" alt="House Model" />
+    </div>
+<body>
+    <p>
+        “I began the day connected by several moving points on a grid,<br>
+        in a constellation of live objects,<br>
+        in a house of memory”
+      </p>
+      <p class="author">—Renee Gladman</p>
+
+      <p>
+        “You pile up associations the way you pile up bricks.<br>
+        Memory itself is a form of architecture.”
+      </p>
+      <p class="author">—Louise Bourgeois</p>
+</body>
+<footer id="footer">
+    <p> &copy;Miguel Arroyo / 2025</p>
+  </footer>
+
+</body>
+</html>
