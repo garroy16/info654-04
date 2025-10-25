@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home — Miguel Arroyo</title>
+  <link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <div class="panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+       <div style="display:flex;gap:12px;align-items:center">
+<a href="index.html" class="logo">
+  <img 
+    src="images/marigoldone.png" 
+    srcset="images/marigoldone.png 2x, images/marigoldone.png 3x" 
+    alt="Miguel Arroyo Logo">
+</a>
+<div>
+            <div class="title">Home:</div>
+            <div class="tag" style="color:var(--muted);font-size:12px">an Experiment, a Dream</div>
+          </div>
+
+
+      <nav class="mobile-links" aria-label="Mobile primary">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+</div>
+
+ <div class="container">
+  <h1>Contact and Bio</h1>
+  <h2>Miguel Cardenas-Arroyo</h2>
+<div class="body-text">
+<img src="images/Miguel.jpg" alt="picture of an adult male dressed preppy in a brown sweater vest, white long sleeve button up shirt, and black pants">
+<p> <strong>Miguel Cardenas-Arroyo</strong> <em>(he/him)</em> is a Latin-American writer, aspiring academic librarian and archivist from Los Angeles now living in New York City. They are a recent alum from NYU's XE: Experimental Humanities & Social Engagement program and are currently studying Library and Information Sciences with an advanced certificate in Archives at Pratt Institute. Their research interests are in queer and feminist practices, post-Marxist theory, and actively practices experimental writing. Their current work focuses on the interactions among Latine literature, queerness, memory, the body, and relations to home through experimental narratives. Cardenas-Arroyo views language as a catalyst for change and uncovers their truth through the act of writing. </p>
+<p>Their favorite anime is <em>Frienren: Beyond Journey's End</em> because it is a look into the 'everyday' as a thousand year old elven mage realizes the beauty of connection. Their coffee order is four-shots of blonde espresso with coconut milk. Cardenas-Arroyo is a Sagittarius (to a fault) and is self-proclaimed French fry and ranch sommelier.</p> 
+<p> <strong><u>Contact:</u></strong> </p> 
+<p> (###) ###-#### </p>
+<p> garroy16@pratt.edu </p>
+<a href="https://www.instagram.com/migueeel_yo" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
+       alt="Instagram" 
+       style="width:32px; height:32px; fill:#E1306C; ">
+</a> </p>
+<footer id="footer">
+    <p> &copy;Miguel Arroyo / 2025</p>
+  </footer>
+ </div>
+</body>
+</html>
