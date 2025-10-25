@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home — Miguel Arroyo</title>
+  <link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <div class="panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+       <div style="display:flex;gap:12px;align-items:center">
+<a href="index.html" class="logo">
+  <img 
+    src="images/marigoldone.png" 
+    srcset="images/marigoldone.png 2x, images/marigoldone.png 3x" 
+    alt="Miguel Arroyo Logo">
+</a>
+<div>
+            <div class="title">Home:</div>
+            <div class="tag" style="color:var(--muted);font-size:12px">an Experiment, a Dream</div>
+          </div>
+
+
+      <nav class="mobile-links" aria-label="Mobile primary">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+</div>
+  <div class="container">
+    <h1><u>The Living Room Walls</u></h1>
+    <div class="body-text">
+ <p> I began the day remembering my childhood home and the living room, with its French puce
+painted walls<sup><a href="#footnote1" id="ref1">1</a></sup>.</p>
+      <img src="images/hummingbirdsplash.png" alt="watercolor of a hummingbird" />
+<div class="footnotes">
+  <p id="footnote1">
+    <sup>1</sup>The French puce living room walls don’t speak, but they have always listened. They had awakened when the new homeowners put the keys in the front door and the sound of it bounced off the living room wall. They glanced at the pregnant Woman carrying a small box of things, belly first, into the room. The living room walls listened, quietly, to the new Homeowners as they walked from room to room dreaming of what the house would look like, designating their bedroom and the nursery. The living room walls hated the Movers as they came in messily one after another stomping around, speaking loudly, and throwing boxes against the wall—not caring if the wall’s paint would chip (it wears some of those dents today). </p>
+<p> As time passed, the living room walls learned to change its shape to fit the couple and their first child, and then their second. Sunday mornings were the living room walls’ favorite as it joined the two brothers in watching cartoons, listening in on their laughs and gasps at the TV. On Sunday mornings the Mom would make coffee and pancakes that had a special scent that would travel around the home, the living room walls never able to taste. It spent nights embracing the family as they would sit in the living room eating dinner, or watching movies. The living room walls enjoyed watching the movies with them, never quite understanding the plot, but pleased by the company until everyone went to bed. At night the living room walls would beat, like a heart, the family calls this ‘the house settling’. </p>
+<p> The living room walls grew fond of the color change from white, to green, and finally to French Puce. The living room walls loved being painted French Puce; feeling elegant, warm, and grounding. It felt relieved to have the sections of missing paint chipped away by childhood antics like throwing toys, placing stickers only to remove them without care, and slamming furniture against the wall. The marks of childhood vanished away with strokes of the paint brush.</p>
+<p>The Oldest Child began staying within the living room walls less and less. Only passing through to leave and return. This made the living room walls sad as they changed their shape to fit the family of four, it wasn’t used to only three. They were unaware of what happened outside where the Oldest Child spent most of their time, but they would increasingly become worried, anxious, concerned that the Child was only safest within its four walls. One day He arrived home early and came out to his parents, and although they were filled with a mixture of emotions, the living room walls felt proud—they were content that the Oldest Child felt safe enough to disclose more about themselves.For the first time ever, the living room walls wished they could sprout arms to wrap around the Oldest Child in their warm embrace. </p>
+<p>Once the oldest moved away, it hurt the living room walls but they got used to the shape of three.Expanding back to fit four when the Oldest would come and visit on holiday. However, the living room wall did not expect the Youngest Child to move out so soon, sooner than the Oldest. They felt the children slipping, just out of reach of their four walls. The living room walls spent afternoons counting the days trying to figure out where the time went. Some evenings the living room walls could hear the Mother crying to themselves, thinking no one was home to hear. The living room walls would cry with Her.</p> 
+<p>The living room began to fill with boxes. And those boxes began to fill with the family’s things. The living room walls did not think the family would leave them, they thought they’d grow old in the house with them. They were ambivalent to see the two children come to help move the boxes out. As the last box was carried out it tried to scream, “PLEASE STAY,” but no one in the family heard the living room walls’ attempts. The front door closed and the lock switching into place echoed throughout the house. That night, the living room walls cried themselves to sleep.</p> 
+<p>Now the French Puce painted living room walls sit in silence, shuffling through their memories. The living room walls always remember.</p>
+    <a href="#ref1" class="back-link">↩︎</a>
+  </p>
+<footer id="footer">
+    <p> &copy;Miguel Arroyo / 2025</p>
+  </footer>
+</body>
+</html>
