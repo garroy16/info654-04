@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home — Miguel Arroyo</title>
+  <link href="stylesheet.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <div class="panel" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+       <div style="display:flex;gap:12px;align-items:center">
+<a href="index.html" class="logo">
+  <img 
+    src="images/marigoldone.png" 
+    srcset="images/marigoldone.png 2x, images/marigoldone.png 3x" 
+    alt="Miguel Arroyo Logo">
+</a>
+<div>
+            <div class="title">Home:</div>
+            <div class="tag" style="color:var(--muted);font-size:12px">an Experiment, a Dream</div>
+          </div>
+
+
+      <nav class="mobile-links" aria-label="Mobile primary">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+</div>
+
+  <div class="container">
+    <h1>inventory of home</h1>
+    <h2>an outlined account of noteworthy things:</h2>
+
+    <ul>
+      <li>a giant unkempt cyprus tree with sporadically extending branches; whose roots grow mischievously unchecked</li>
+      <li>the front door leads into a vestibule before the living room</li>
+      <li>two bookshelves leaning against the French puce painted living room walls, both overflowing with half-read books</li>
+      <li>a toddler sized wooden rocking chair (that I would rock in until I was fourteen years old, dreaming while awake)</li>
+      <li>a giant cabinet that holds a TV in the center, the left side is filled with DVDs and game consoles while the right side is decorated with photos of Mom and Dad, Grandma and Grandpa, my first communion, and Brother’s middle-school graduation.</li>
+      <li>on the left living room wall are three photo frames:
+  <ul>
+    <li>the first picture frame holds twelve photos of me for each month of the year I was born</li>
+    <li>the second picture frame is a shadow box that holds a golden cross (the ones given for funerals) and holy water</li>
+    <li>the third picture frame holds twelve photos of Brother for each month of the year he was born</li>
+  </ul>
+</li>
+      <li>a kitchen with cream painted walls and a bay window over the sink</li>
+      <li>a round dining room table with four chairs stacked with books, papers, bags, and miscellaneous items, leaving no space to be used for family dinners</li>
+      <li>a skinny dim-lit hallway connecting the two bedrooms with the bathroom in the middle and there’s one yellow incandescent light—no, it's a purple overhead light now</li>
+      <li>a children’s bedroom with four steel blue painted walls, white crown molding, and two windows</li>
+      <li>there are two shifting twin beds; first aligned in an L-shape, then side by side, then stacked like bunk beds without a ladder, and finally only one full sized bed remained</li>
+      <li>in the same room is a small rainbow paneled ceiling fan with red, orange, yellow, green, and blue blades Brother picked out when he was four years old</li>
+      <li> in the backyard there is a young jasmine tree in the flower beds, a fig tree in the center of the lawn that bears fruit every spring, four to five lemon trees, a pomegranate tree on both sides of the lawn, and a guava tree whose fruit is never appreciated for their smell</li>
+      <li>in the backyard there is one young Christmas tree (douglas fir) in a pot too big, Mom got it one year at Costco when it was in an eight inch pot because we couldn’t afford a big Christmas tree that year—I don’t think she wanted us to know that part</li>
+      <li>in the backyard, there are two baby-sized footprints made in the cement when it was being laid in 1995 (time has weathered most of it away)</li>
+      <li>beyond the backyard is a second house, the Other House, one with a room of mirrors for walls</li>
+<img src="images/marigoldjar.png" alt="Marigolds in a glass jar">
+</body>
+<footer id="footer">
+    <p> &copy;Miguel Arroyo / 2025</p>
+  </footer>
+</html>
